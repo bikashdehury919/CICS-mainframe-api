@@ -1,7 +1,7 @@
 '''
 Created on 3. sep. 2020
 
-@author: M81084
+@author: 
 '''
 import time
 from .mainFrame_Utility import *

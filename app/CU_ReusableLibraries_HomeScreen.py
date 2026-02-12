@@ -1,8 +1,4 @@
-'''
-Created on 3. sep. 2020
 
-@author: 
-'''
 import time
 from .mainFrame_Utility import *
 from .IBMReflectionConfiguration import *
